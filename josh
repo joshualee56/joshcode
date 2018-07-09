@@ -1,0 +1,9 @@
+def big_diff(list):
+    biggest_myList[0]
+    for number in myList:
+        if number > biggest:
+            biggest = number
+            
+    for number in myList:
+        if number < smallest:
+            smallest = number
